@@ -16,7 +16,7 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "head-vr"
+  icon = "glasses"
   icon_pack = "fas"
   name = "AR"
   description = "70%"
