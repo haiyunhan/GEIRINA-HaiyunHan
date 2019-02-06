@@ -12,7 +12,7 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "Depth Vision based Intelligent Reconstruction and Recognition of Complex and Dynamic Fieldwork Enviornmnet"
 
 # View.
 #   1 = List
@@ -47,6 +47,40 @@ filter_default = 0
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
+
+name = "AR"
+tag = "AR"
+
+name = "Deep Learning"
+tag = "Deep Learning"
+
+name = "Contextness Computing"
+tag = "Contextness Computing"
+
+folder = "R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform"
+view = 3
+widget_layout = 0
+flip_alt_rows = false
+filter_default = 0
+
+name = "AR"
+tag = "AR"
+
+name = "Wearable Computing"
+tag = "Wearable Computing"
+
+folder = " R&D on Electrical Equipments Knowledge Graph"
+view = 3
+widget_layout = 0
+flip_alt_rows = false
+filter_default = 0
+
+name = "Graph Computing"
+tag = "Graph Computing"
+
+name = "Knowledge Graph"
+tag = "Knowledge Graph"
+
 
 +++
 
