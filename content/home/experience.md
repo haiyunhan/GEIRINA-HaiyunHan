@@ -28,26 +28,16 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
+  * Framework Design for Software and Hardware    
+  * Computer Vision 
+  * Deep Learning
+  * Graph Computing
+  * Knowledge Graph 
   * Project - Depth Vision based Intelligent Reconstruction and Recognition of Complex and Dynamic Fieldwork Enviornmnet
   * Project - 
   * project completed - R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform 
   """
   
- [[experience]]
-  title = "Project Manager"
-  company = "GEIRINA"
-  company_url = ""
-  location = "California"
-  date_start = "2017-06-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Project - Depth Vision based Intelligent Reconstruction and Recognition of Complex and Dynamic Fieldwork Enviornmnet
-  * Project - 
-  * project completed - R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform 
-  """
-
 [[experience]]
   title = "Dupty Director"
   company = "GEIRI Iinformation and Communication Research Institute"
@@ -55,6 +45,6 @@ date_format = "January 2006"
   location = "China"
   date_start = "2013-01-01"
   date_end = "2017-05-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Start to develop Wearable Computing and AR/VR projects."""
 
 +++
