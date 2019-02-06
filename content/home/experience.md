@@ -32,6 +32,21 @@ date_format = "January 2006"
   * Project - 
   * project completed - R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform 
   """
+  
+ [[experience]]
+  title = "Project Manager"
+  company = "GEIRINA"
+  company_url = ""
+  location = "California"
+  date_start = "2017-06-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Project - Depth Vision based Intelligent Reconstruction and Recognition of Complex and Dynamic Fieldwork Enviornmnet
+  * Project - 
+  * project completed - R&D on Augmented Reality Smart Wearable Device fundamental Software and Hardware Platform 
+  """
 
 [[experience]]
   title = "Dupty Director"
