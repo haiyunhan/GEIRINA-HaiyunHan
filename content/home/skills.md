@@ -19,18 +19,18 @@ weight = 7
   icon = "glasses"
   icon_pack = "fas"
   name = "AR"
-  description = "70%"
+  description = "100%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "AI"
+  description = "30%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "atlas"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Knowledge Graph"
+  description = "60%"
 
 +++
