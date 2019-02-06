@@ -47,13 +47,13 @@ filter_default = 0
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
-
+[[filter]]
 name = "AR"
 tag = "AR"
-
+[[filter]]
 name = "Deep Learning"
 tag = "Deep Learning"
-
+[[filter]]
 name = "Contextness Computing"
 tag = "Contextness Computing"
 
@@ -62,10 +62,10 @@ view = 3
 widget_layout = 0
 flip_alt_rows = false
 filter_default = 0
-
+[[filter]]
 name = "AR"
 tag = "AR"
-
+[[filter]]
 name = "Wearable Computing"
 tag = "Wearable Computing"
 
@@ -74,10 +74,10 @@ view = 3
 widget_layout = 0
 flip_alt_rows = false
 filter_default = 0
-
+[[filter]]
 name = "Graph Computing"
 tag = "Graph Computing"
-
+[[filter]]
 name = "Knowledge Graph"
 tag = "Knowledge Graph"
 
