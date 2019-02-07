@@ -45,6 +45,24 @@ date_format = "January 2006"
   location = "China"
   date_start = "2013-01-01"
   date_end = "2017-05-31"
-  description = """Start to develop Wearable Computing and AR/VR projects."""
+  description = """Developed Wearable Devices and AR Platform ."""
+  
+[[experience]]
+  title = "Dupty Director"
+  company = "CEPRI Iinformation and Communication Research Institute"
+  company_url = ""
+  location = "China"
+  date_start = "2012-12-31"
+  date_end = "2009-01-01"
+  description = """Researched on Cloud Computing, IOT, etc."""
+  
+[[experience]]
+  title = "Technology Manager"
+  company = "NARI Iinformation and Communication LLC"
+  company_url = ""
+  location = "China"
+  date_start = "2008-12-31"
+  date_end = "2002-07-01"
+  description = """Developed Operation Management System for Provincial Dispatching Center."""
 
 +++
