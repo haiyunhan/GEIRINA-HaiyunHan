@@ -65,7 +65,7 @@ interests = [
 
 +++
 
-Haiyun Han is a researcher of Augmented Reality at GEIRINA. His research interests include wearable devices, mobile computing, Deep Learning and Knowledge Graph. He leads the AR team, which developed Industral Smart Helmet, AR Fieldwork Supporting Platform with awsome functions, for exampple, Remote Experts, work instruction. Now, he is developing the smarter helmet to understand the situation the worker is in to navigate and guide them how to do the next work.
+Haiyun Han is a researcher of Augmented Reality at GEIRINA. His research interests include wearable devices, mobile computing, Deep Learning and Knowledge Graph. He leads the AR team, which developed Industral Smart Helmet, AR Fieldwork Supporting Platform with awesome functions, for exampple, Remote Experts, work instruction. Now, he is developing the smarter helmet to understand the situation the worker is in to navigate and guide them how to do the next work.
 
 He also joint the AI&Graph team to build the Power Equipment Knowledge Graph with Graph Computing, Natural Language Processing, Graph Digging and Knowledge Reasoning, etc.
 
